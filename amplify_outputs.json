@@ -1,0 +1,6 @@
+{
+  "api": {
+    "GraphQLAPIEndpoint": "https://example-endpoint.appsync-api.region.amazonaws.com/graphql",
+    "GraphQLAPIKey": "example-api-key"
+  }
+}
